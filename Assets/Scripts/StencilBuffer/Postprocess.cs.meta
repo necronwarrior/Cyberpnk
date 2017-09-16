@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 25ef07e046b0a234894825b4dace22be
+timeCreated: 1505485106
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PostprocessMaterial: {fileID: 2100000, guid: 476d1723335ba5b48ab142c321512c43,
+      type: 2}
+  - SimpleRender: {fileID: 2100000, guid: 148c7c727a523da438f69b9b0002d541, type: 2}
+  - CameraRenderTexture: {instanceID: 0}
+  - Buffer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
