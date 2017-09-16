@@ -61,8 +61,10 @@
      <Compile Include="Assets\Scripts\StencilBuffer\Postprocess.cs" />
      <Compile Include="Assets\Scripts\TextShifter.cs" />
      <Compile Include="Assets\Scripts\ToScene.cs" />
+     <Compile Include="Assets\TextureAnimator.cs" />
      <None Include="Assets\Scripts\StencilBuffer\stencil_object_shader - Copy.shader" />
      <None Include="Assets\Scripts\StencilBuffer\stencil_object_shader.shader" />
+     <None Include="Assets\levelPrefabs\offcull.shader" />
      <None Include="Assets\Scripts\StencilBuffer\simple_render - Copy.shader" />
      <None Include="Assets\Adam Character Pack\license.txt" />
      <None Include="Assets\Scripts\StencilBuffer\postprocess_effect.shader" />

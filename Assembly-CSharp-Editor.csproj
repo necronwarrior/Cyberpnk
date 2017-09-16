@@ -55,6 +55,7 @@
      <Compile Include="Assets\Adam Character Pack\Features\RigMeister2000\Editor\VisibleSkeletonEd.cs" />
      <None Include="Assets\Scripts\StencilBuffer\stencil_object_shader - Copy.shader" />
      <None Include="Assets\Scripts\StencilBuffer\stencil_object_shader.shader" />
+     <None Include="Assets\levelPrefabs\offcull.shader" />
      <None Include="Assets\Scripts\StencilBuffer\simple_render - Copy.shader" />
      <None Include="Assets\Adam Character Pack\license.txt" />
      <None Include="Assets\Scripts\StencilBuffer\postprocess_effect.shader" />
